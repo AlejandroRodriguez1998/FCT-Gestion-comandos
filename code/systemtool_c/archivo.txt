@@ -1,0 +1,10 @@
+
+Haciendo ping a 8.8.8.8 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 8.8.8.8:
+    Paquetes: enviados = 4, recibidos = 0, perdidos = 4
+    (100% perdidos),

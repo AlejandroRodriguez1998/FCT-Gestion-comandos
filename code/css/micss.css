@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    display: flex;
+    background-color: #004D71 !important;
+}
+
+::placeholder {
+    color: gainsboro !important;
+}
+
+h3 > span {
+    color: yellow;
+}
+
+.alturaMaxima {
+    min-height: 45%;
+}
+
+
+
+.buttonInicio {
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    text-shadow: -1px -1px rgba(0,0,0,.2);
+    border: 3px outset #FFFFFF;
+    color: black;
+    width: 170px;
+    padding: 20px 20px;
+    margin: 6px 7.5px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.88;
+    transition: 0.3s;
+}
+  
+.buttonInicio:hover {
+    opacity: 1;
+}
+
+.centrarVert {
+    height: 85vh;
+}
+
+.card {
+    background-color: #004D71;
+    color: white;
+}
+
+#divError, #divError1 {
+    color: red;
+}
